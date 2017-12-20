@@ -14,10 +14,10 @@
    console.log(string.toLowerCase());
  }
  function sayHiToGrandma(string){
-   if('hello'){
+   if(string === 'hello'){
      return "I can\'t hear you!";
    }
-   if('HELLO'){
+   if(string ==='HELLO'){
      return "YES INDEED!";
    }
    
