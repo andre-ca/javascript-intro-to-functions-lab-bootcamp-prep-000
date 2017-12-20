@@ -17,7 +17,7 @@
    if('hello'){
      return "I can\'t hear you!";
    }
-   if("HELLO"){
+   if('HELLO'){
      return "YES INDEED!";
    }
    
